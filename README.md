@@ -1,4 +1,5 @@
 # apnacollege-demo
+
 This is my first git repository
 <br>
-Author- Linta Zaidi
+Author - Linta Zaidi (KU)
